@@ -1,0 +1,21 @@
+D:\ArCorp. Projects\C# Visual Studio\Periodica v12o1\Periodica v12o1\bin\Debug\Periodica v12o1.exe.config
+D:\ArCorp. Projects\C# Visual Studio\Periodica v12o1\Periodica v12o1\bin\Debug\Periodica v12o1.exe
+D:\ArCorp. Projects\C# Visual Studio\Periodica v12o1\Periodica v12o1\bin\Debug\Periodica v12o1.pdb
+D:\ArCorp. Projects\C# Visual Studio\Periodica v12o1\Periodica v12o1\bin\Debug\MetroFramework.dll
+D:\ArCorp. Projects\C# Visual Studio\Periodica v12o1\Periodica v12o1\bin\Debug\MetroFramework.Fonts.dll
+D:\ArCorp. Projects\C# Visual Studio\Periodica v12o1\Periodica v12o1\obj\Debug\Periodica_v12o1.Properties.Resources.resources
+D:\ArCorp. Projects\C# Visual Studio\Periodica v12o1\Periodica v12o1\obj\Debug\Periodica v12o1.csproj.GenerateResource.cache
+D:\ArCorp. Projects\C# Visual Studio\Periodica v12o1\Periodica v12o1\obj\Debug\Periodica v12o1.csproj.CoreCompileInputs.cache
+D:\ArCorp. Projects\C# Visual Studio\Periodica v12o1\Periodica v12o1\obj\Debug\Periodica v12o1.csproj.CopyComplete
+D:\ArCorp. Projects\C# Visual Studio\Periodica v12o1\Periodica v12o1\obj\Debug\Periodica v12o1.exe
+D:\ArCorp. Projects\C# Visual Studio\Periodica v12o1\Periodica v12o1\obj\Debug\Periodica v12o1.pdb
+D:\ArCorp. Projects\C# Visual Studio\Periodica v12o1\Periodica v12o1\obj\Debug\Periodica_v12o1.Form1.resources
+D:\ArCorp. Projects\C# Visual Studio\Periodica v12o1\Periodica v12o1\obj\Debug\Periodica_v12o1.Table.resources
+D:\ArCorp. Projects\C# Visual Studio\Periodica v12o1\Periodica v12o1\obj\Debug\Periodica_v12o1.OfflineDispay.resources
+D:\ArCorp. Projects\C# Visual Studio\Periodica v12o1\Periodica v12o1\obj\Debug\Periodica v12o1.csprojAssemblyReference.cache
+D:\ArCorp. Projects\C# Visual Studio\Periodica v12o1\Periodica v12o1\obj\Debug\Periodica_v12o1.EditCheck.resources
+D:\ArCorp. Projects\C# Visual Studio\Periodica v12o1\Periodica v12o1\obj\Debug\Periodica_v12o1.EditData.resources
+D:\ArCorp. Projects\C# Visual Studio\Periodica v12o1\Periodica v12o1\obj\Debug\Periodica_v12o1.About.resources
+D:\ArCorp. Projects\C# Visual Studio\Periodica v12o1\Periodica v12o1\obj\Debug\Periodica_v12o1.ColourCodes.resources
+D:\ArCorp. Projects\C# Visual Studio\Periodica v12o1\Periodica v12o1\obj\Debug\Periodica_v12o1.Help.resources
+D:\ArCorp. Projects\C# Visual Studio\Periodica v12o1\Periodica v12o1\obj\Debug\Periodica_v12o1.Image.resources
